@@ -9,7 +9,7 @@
 
 #Step1:importation des bibliothèques nécessaires
 
-import seaborn as sns
+
 import plotly.express as px
 import streamlit as st
 import numpy as np
