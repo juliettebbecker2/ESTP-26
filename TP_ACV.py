@@ -8,7 +8,7 @@
 #3. Lancer l'application Streamlit (streamlit run TP_ACV.py)
 
 #Step1:importation des bibliothèques nécessaires
-import matplotlib.pyplot as plt
+
 import seaborn as sns
 import plotly.express as px
 import streamlit as st
